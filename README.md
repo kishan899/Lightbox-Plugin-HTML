@@ -8,6 +8,7 @@ This is my another project called "Lightbox Plugin".
    <img src="demolinkcss.jpg"></img>
 -  2. Step
    - Link Lightbox javascript file in your HMTL file.
+   <img src="demolinkjavascript.jpg"></img>
 - 3. Step
    - Open a `script` tag below the linked javascript file,
      For example: `<script src="lightbox.js"></script>`.
