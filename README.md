@@ -5,6 +5,7 @@ This is my another project called "Lightbox Plugin".
 - **Follow This Steps to add in your project.**
 -  1. Step
    - Link Lightbox css file in your HTML file.
+   <img src="demolinkcss.jpg"></img>
 -  2. Step
    - Link Lightbox javascript file in your HMTL file.
 - 3. Step
